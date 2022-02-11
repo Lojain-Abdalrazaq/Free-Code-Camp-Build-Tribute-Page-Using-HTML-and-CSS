@@ -1,0 +1,36 @@
+body{
+    text-align : center;
+   font-family: helvetica;
+    background: #FFE4C4;
+  }
+  h1{
+    font-family:monospace;
+    color:#7f0000;
+    font-size: 60px;
+  }
+  h3{
+    font-family:monospace;
+    font-size: 30px;
+  }
+  p{
+    font-size: 20px;
+  }
+  #image{
+   height:500px;
+    max-width: 100%;
+   border: 5px solid #7f0000;
+  }
+  #img-caption{
+   color: #7f0000;
+   font-size: 20px;
+  } 
+  #tribute-info{
+    font-family: open-sans;
+  }
+  #tribute-link{
+     width: 30px;
+    border: 5px solid #7f0000;
+    padding: 10px;
+    margin: 10px;
+    color: #7f0000;
+  }
